@@ -32,11 +32,11 @@
   "homepage": "https://github.com/EndBug/add-and-commit#readme",
   "dependencies": {
     "@actions/core": "^1.2.6",
-    "js-yaml": "^4.0.0",
+    "js-yaml": "^4.1.0",
     "simple-git": "^2.27.0"
   },
   "devDependencies": {
-    "@types/js-yaml": "^4.0.0",
+    "@types/js-yaml": "^4.0.6",
     "@types/node": "^12.12.54",
     "@typescript-eslint/eslint-plugin": "^4.21.0",
     "@typescript-eslint/parser": "^4.21.0",
